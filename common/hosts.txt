@@ -1,4 +1,4 @@
-\0.0.0.0      t1.market.xiaomi.com
+0.0.0.0      t1.market.xiaomi.com
 0.0.0.0      t2.market.xiaomi.com
 0.0.0.0      t3.market.xiaomi.com
 0.0.0.0      t4.market.xiaomi.com
